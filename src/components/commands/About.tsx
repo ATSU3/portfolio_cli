@@ -15,7 +15,7 @@ const About: React.FC = () => {
         Kuriyama.
       </p>
       <p>
-        I I love IoT so much!.
+        I love IoT so much!.
         I am using IoT technology to solve problems in agriculture and factories
       </p>
     </AboutWrapper>

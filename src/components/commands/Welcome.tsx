@@ -15,7 +15,7 @@ const Welcome: React.FC = () => {
       <div className="info-section">
         <PreName>
           {`        
-    _   _
+     _   _
     / \ | |_ ___ _   _
    / _ \| __/ __| | | |
   / ___ \ |_\__ \ |_| |
@@ -26,7 +26,7 @@ const Welcome: React.FC = () => {
         <PreWrapper>
           <PreNameMobile>
             {`
-    _   _
+     _   _
     / \ | |_ ___ _   _
    / _ \| __/ __| | | |
   / ___ \ |_\__ \ |_| |
@@ -53,7 +53,7 @@ const Welcome: React.FC = () => {
         <PreImg>
           {`
                                                             
-                  .:^~^^^:.                           
+                      .:^~^^^:.                           
                   .~?5B#&@@@@@@#P!                         
                 :?G&@@@@@@@@@@@@@@@B7                       
               .J&@@@@@@@@@@@@@@@@@@@@5                      
